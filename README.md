@@ -81,11 +81,7 @@ based on hire and term dates?
 
 * Some termdates were far into the future and were not included in
   the analysis (1599 records).The only term dates used were those less
-  than  or equal to the current date. 
-
-
-  
--
+  than  or equal to the current date.
 
 
 
