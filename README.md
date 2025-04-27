@@ -81,6 +81,70 @@ based on hire and term dates?
   Legal and Auditing having the highest and Services,
   Sales and Marketing having the lowest.
 
+## Summary
+
+1. Demographics & Age:
+
+   More male employees overall.Predominantly White employees; Native Hawaiian and American Indian are the least represented.
+   Employee age ranges from 20 to 57, with the majority between 25–34 years, followed by 35–44 years. Few employees fall into the 55–64 age group.
+
+2. Work Locations & Tenure:
+
+   A large number of employees work at headquarters compared to remote work.
+   Average tenure of terminated employees is 7 years.
+   Average departmental tenure is 8 years, with Legal and Auditing departments having the highest tenure and Marketing, Sales, and Services departments having 
+   the lowest.
+
+3. Turnover:
+
+   Marketing has the highest turnover, followed by Training.
+   Lowest turnover is in Research & Development, Support, and Legal departments.
+
+4. Regional Presence:
+
+   Many employees come from Ohio.
+   Net employee numbers have steadily increased over time.
+
+## Insights for Improvement
+
+== Based on the data, here are actionable insights to improve the company’s performance and culture:
+
+1. Diversity and Inclusion:
+
+  Introduce initiatives to hire and retain individuals from underrepresented racial groups (e.g., Native Hawaiian, American Indian). This can include outreach 
+  programs, partnerships with minority-focused organizations, and diversity hiring goals.
+  Offer training to managers and employees to foster an inclusive workplace.
+
+2. Balanced Gender Representation:
+
+   While departments are relatively balanced, address the gender disparity overall by targeting roles with fewer female employees. Mentorship programs for women 
+   and gender-neutral hiring practices can help.
+
+3. Employee Retention:
+
+  Investigate why Marketing and Training departments have high turnover rates. Possible areas to explore include workload, leadership, career growth 
+  opportunities, and team dynamics.
+  Invest in employee engagement programs (e.g., team-building activities, growth opportunities) for high-turnover teams.
+
+4. Encouraging Remote Work:
+
+  If feasible, consider enabling more employees to work remotely or hybrid. This could enhance job satisfaction, attract diverse talent, and reduce the strain on 
+  physical office space.
+
+5. Focus on Aging Workforce:
+
+  Employees aged 55–64 form a small group. To encourage longevity, consider flexible work hours, phased retirement plans, or wellness programs tailored for 
+  senior employees.
+
+ 6. Enhancing Tenure:
+
+   For Sales, Services, and Marketing (departments with the lowest tenure), evaluate workload and reward systems to encourage longer employee commitment. 
+   Structured career paths, recognition programs, and skill development opportunities can help.
+
+7.  Leveraging Ohio’s Talent Pool:
+
+   Since many employees are from Ohio, invest in branding and partnerships with local universities or organizations to tap into the regional talent pool further
+
 ### Limitations
 
 * Some records had negative ages and these were excluded during 
