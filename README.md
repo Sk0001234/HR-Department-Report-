@@ -8,6 +8,11 @@ SQL queries are used to securely fetch and aggregate data from multiple HR-relat
 Power BI presents this data through interactive dashboards and customizable reports, enable HR leaders to make data-driven desicion, monitor HR KPIs,
 forecast workfore needs and optimize talent management strategies.
 
+![HR1](https://github.com/user-attachments/assets/402c4b7a-2ce5-45de-8bbc-ac87ec1c93f9)
+
+
+
+
 ### Data Used 
 
 Data - HR Data with over 22000 rows from 
@@ -32,7 +37,7 @@ company ?
 5. What is the average length of employment for the employees
  who have been terminated ?
 
-6.How does the gender distribution vary across
+6. How does the gender distribution vary across
 departments and job titles?
 
 7. What is the distribution of job titles across the company?
@@ -154,6 +159,7 @@ based on hire and term dates?
   the analysis (1599 records).The only term dates used were those less
   than  or equal to the current date.
 
-
+😄
+💻
 
 
