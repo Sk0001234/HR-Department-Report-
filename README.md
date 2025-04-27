@@ -1,5 +1,12 @@
 # HR-Department-Report with Power Bi and SQL
 
+### Project Overview
+
+This HR Department Report provides comprehensive insights into workforce data by leveraging  SQL for data extraction , data analysis and Power BI 
+for dynamic visualization. The report includes key HR metrics such as headcount, employee demographics, recruitment status, turnover rates etc.
+SQL queries are used to securely fetch and aggregate data from multiple HR-related database, ensuring accuracy and real-time updates.
+Power BI presents this data through interactive dashboards and customizable reports, enable HR leaders to make data-driven desicion, monitor HR KPIs,
+forecast workfore needs and optimize talent management strategies.
 
 ### Data Used 
 
